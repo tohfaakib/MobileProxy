@@ -32,3 +32,7 @@ Depending on the modem model and firmware version, you might need to adjust the 
 ## Disclaimer
 
 This tool is provided as-is without any warranty. The author is not responsible for any damage or loss resulting from the use of this script. Use it at your own risk.
+
+## Credit
+
+Made this python script from a javascript code I found with some adjustament. Original link: https://mobileproxy.space/en/pages/configuring-the-e3372h-320-modem-to-work-with-mobile-proxies.html
