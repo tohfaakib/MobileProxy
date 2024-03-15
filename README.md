@@ -35,4 +35,4 @@ This tool is provided as-is without any warranty. The author is not responsible 
 
 ## Credit
 
-Made this python script from a javascript code I found with some adjustament. Original link: https://mobileproxy.space/en/pages/configuring-the-e3372h-320-modem-to-work-with-mobile-proxies.html
+Made this python script with some adjustament from a javascript code I found here, https://mobileproxy.space/en/pages/configuring-the-e3372h-320-modem-to-work-with-mobile-proxies.html
